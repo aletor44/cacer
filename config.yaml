@@ -1,0 +1,7 @@
+path: /Users/alextorjyan/CancerR
+train: CancerR.v1i.yolov8-obb/train/images
+val: CancerR.v1i.yolov8-obb/train/images
+
+# Classes
+names:
+    0: Cell
